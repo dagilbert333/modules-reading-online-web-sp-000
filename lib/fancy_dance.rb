@@ -1,5 +1,3 @@
-require_relative 
-
 module FancyDance
   module InstanceMethods
  
